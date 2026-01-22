@@ -1,4 +1,4 @@
-# 📊 OTDR Viewer Pro
+# 📊 OTDR SOR Viewer & Editor Pro
 
 **Professional OTDR SOR File Viewer & Editor**
 Latest Version: v1.0.0
