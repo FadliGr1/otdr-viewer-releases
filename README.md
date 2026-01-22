@@ -3,7 +3,8 @@
 **Professional OTDR SOR File Viewer & Editor**
 Latest Version: v1.0.0
 
-![OTDR Viewer Pro](https://sndapp.com/assets/images/otdr-hero.png)
+![OTDR Viewer Pro](<img width="2864" height="1696" alt="image" src="https://github.com/user-attachments/assets/1296fdff-f436-450d-b228-6f03e2884c78" />
+)
 
 ## 📥 Download & Install
 1. Go to the [**Releases Page**](https://github.com/FadliGr1/otdr-viewer-releases/releases).
