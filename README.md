@@ -48,3 +48,12 @@ A: False positives may occur because the app is a new release. We use signed cod
 
 ## 📧 Support
 For issues or feature requests, contact us at: **support@sndapp.com**
+
+<img width="2855" height="1689" alt="image" src="https://github.com/user-attachments/assets/2b70de57-13b3-43a1-ae24-b2b77c8f9034" />
+---
+<img width="2859" height="1688" alt="image" src="https://github.com/user-attachments/assets/88630199-15fa-45e8-b806-4e63de306844" />
+---
+<img width="2867" height="1691" alt="image" src="https://github.com/user-attachments/assets/21b3fdba-7342-4ea5-812c-5305261e7d40" />
+---
+<img width="1095" height="1548" alt="image" src="https://github.com/user-attachments/assets/5ff898d8-3e6b-400a-a3a5-e044bf639c43" />
+
